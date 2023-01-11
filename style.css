@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+
+#big_image:hover
+{
+    
+   transform: translateX(1000px);
+}
+#start,#status {
+    font-size: 22px;
+}
+#background_img{
+    z-index: 3;
+}
+body{
+    height: 100%;
+}
+h4{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+width: 90%;
+}
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
